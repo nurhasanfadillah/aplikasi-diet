@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Aplikasi Diet</string>
+    <string name="home">Beranda</string>
+    <string name="meal_plan">Menu Diet</string>
+    <string name="progress">Progress</string>
+    <string name="profile">Profil</string>
+    
+    <!-- Home Screen -->
+    <string name="welcome_message">Selamat Datang!</string>
+    <string name="daily_goal_message">Mari capai target diet Anda hari ini</string>
+    <string name="daily_summary">Ringkasan Hari Ini</string>
+    <string name="weekly_progress">Progress Mingguan</string>
+    <string name="quick_actions">Aksi Cepat</string>
+    <string name="add_meal">Tambah Makan</string>
+    <string name="drink_water">Minum Air</string>
+    
+    <!-- Nutrition -->
+    <string name="calories">Kalori</string>
+    <string name="protein">Protein</string>
+    <string name="carbs">Karbo</string>
+    <string name="fat">Lemak</string>
+    <string name="water">Air</string>
+    <string name="weight">Berat</string>
+    <string name="meals">Makan</string>
+    
+    <!-- Meal Plan -->
+    <string name="meal_plan_today">Rencana Makan Hari Ini</string>
+    <string name="breakfast">Sarapan</string>
+    <string name="lunch">Makan Siang</string>
+    <string name="dinner">Makan Malam</string>
+    <string name="add_food">Tambah Makanan</string>
+    
+    <!-- Progress -->
+    <string name="your_diet_progress">Progress Diet Anda</string>
+    <string name="current_weight">Berat Badan Saat Ini</string>
+    <string name="progress_to_target">Progress ke Target</string>
+    <string name="weight_chart">Grafik Berat Badan</string>
+    <string name="statistics">Statistik</string>
+    <string name="active_days">Hari Aktif</string>
+    <string name="avg_calories">Rata-rata Kalori</string>
+    <string name="remaining_target">Sisa Target</string>
+    <string name="weekly_average">Rata-rata/Minggu</string>
+    
+    <!-- Profile -->
+    <string name="settings">Pengaturan</string>
+    <string name="personal_info">Informasi Pribadi</string>
+    <string name="diet_goals">Target Diet</string>
+    <string name="reminders">Pengingat</string>
+    <string name="history">Riwayat</string>
+    <string name="export_data">Ekspor Data</string>
+    <string name="help">Bantuan</string>
+    <string name="about_app">Tentang Aplikasi</string>
+    <string name="logout">Keluar</string>
+    
+    <!-- Units -->
+    <string name="kg">kg</string>
+    <string name="cal">kal</string>
+    <string name="grams">g</string>
+    <string name="glasses">gelas</string>
+    <string name="times">kali</string>
+    <string name="days">hari</string>
+    <string name="per_day">per hari</string>
+    <string name="more">lagi</string>
+    <string name="down">turun</string>
+</resources>
